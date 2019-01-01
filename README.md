@@ -1,2 +1,2 @@
 # flasky
-A reference implementation of Flasky restful API service
+A Reference Implementation of Flasky Restful API Service
